@@ -1,0 +1,29 @@
+# Windows Server Administration Project (MCSA)
+
+## 📌 Overview
+This project demonstrates a virtual Windows Server environment built using VMware Workstation for training purposes.
+
+## 🖥️ Environment
+- VMware Workstation
+- Windows Server
+- Windows Client Machines
+
+## ⚙️ Features
+
+- Active Directory Domain Services (AD DS)
+- User and Group Management
+- Organizational Units (OUs)
+- Group Policy Objects (GPO)
+- DNS Configuration
+- DHCP Service
+- File Sharing & Permissions
+- Domain Join for Client Machines
+
+## 🧪 Testing
+- Clients successfully joined to the domain
+- Users and policies applied correctly
+- Network services working properly
+
+## 🎯 Purpose
+This project simulates a real enterprise Windows Server environment for IT administration training (MCSA level).
+
